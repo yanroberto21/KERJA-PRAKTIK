@@ -1,13 +1,16 @@
-Hari Pertama
+#Hari Pertama
 ---------------------
 Memahami Konep (Part of speech)POS –tagging
 MemahamiCorpus 
 memahami konsep HIDDEN  MARKOV Language( HMM)
 
-
-Hari kedua
+#Hari kedua
 -----------------------
-Melakukan Sentimenen terhadap data cuitan media sosial (Twitter,Youtube,Facebook) terhadap Pilgub Jabar 2018
+Melakukan Sentimenen pada website kazee terhadap data cuitan media sosial (Twitter,Youtube,Facebook) terhadap Pilgub Jabar 2018
 
-Hari Ketiga
+#Hari Ketiga
 -------------------------
+Memberikan tagging/pelabelan pada bahasa indonesia berdasarkan jenis katanya ( exp : NN ,NNP,VB,RB,IN,JJ,PRP,FW,SYM,OD,NEG)
+
+#Hari Ke-Empat
+--------------------------
